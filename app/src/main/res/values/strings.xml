@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyCars</string>
+    <string name="dev_one" translatable="false">João Marcos da Costa</string>
+    <string name="dev_two" translatable="false">André Aparecido de Souza</string>
+    <string name="app_version" translatable="false">V1.0</string>
+    <string name="email" translatable="true">Email</string>
+    <string name="password" translatable="true">Password</string>
+    <string name="conf_password" translatable="true">Confirm password</string>
+    <string name="register" translatable="true">Register</string>
+    <string name="edit" translatable="true">Edit</string>
+    <string name="delete" translatable="true">Delete</string>
+    <string name="kpConnected" translatable="true">Keep connected?</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="signgup" translatable="true">Sign Up</string>
+    <string name="whatyouwant" translatable="true">What you want do do?</string>
+    <string name="regcar" translatable="true">Register a new car</string>
+    <string name="showregcars" translatable="true">Show registered cars</string>
+    <string name="about" translatable="true">About</string>
+    <string name="signout" translatable="true">Sign out</string>
+    <string name="model" translatable="true">Model</string>
+    <string name="fuel" translatable="true">Fuel</string>
+    <string name="engine" translatable="true">Engine</string>
+    <string name="price" translatable="true">Price</string>
+</resources>

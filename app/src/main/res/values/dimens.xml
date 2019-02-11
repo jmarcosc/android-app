@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="radius_button_customized">4dp</dimen>
+    <dimen name="width_stroke_button_customized">1dp</dimen>
+    <dimen name="layout_marginStart">15dp</dimen>
+    <dimen name="layout_marginEnd">15dp</dimen>
+    <dimen name="layout_marginLeft">15dp</dimen>
+    <dimen name="layout_marginRight">15dp</dimen>
+    <dimen name="layout_marginTop">20dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="layout_width_logo">150dp</dimen>
+    <dimen name="layout_height_logo">150dp</dimen>
+    <dimen name="layout_list_model">13dp</dimen>
+    <dimen name="layout_list_fuel">140dp</dimen>
+    <dimen name="layout_list_engine">104dp</dimen>
+    <dimen name="layout_list_price">19dp</dimen>
+</resources>

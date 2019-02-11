@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCars</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="conf_password">Confirmar senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="kpConnected">Manter-se conectado?</string>
+    <string name="signgup">Registrar-se</string>
+    <string name="whatyouwant">O que deseja fazer?</string>
+    <string name="regcar">Cadastrar um novo carro</string>
+    <string name="showregcars">Listar carros cadastrados</string>
+    <string name="about">Sobre</string>
+    <string name="signout">Sair</string>
+    <string name="model">Modelo</string>
+    <string name="fuel">Combustível</string>
+    <string name="engine">Motor</string>
+    <string name="price">Preço</string>
+</resources>
